@@ -4,7 +4,7 @@ Peekaboo was a project that I was inspired to make after using Nmap via Kali Lin
 <br />
 
 <p align="center">
-<img src="https://i.postimg.cc/NFvPfNC3/image.png)"
+<img src="https://i.postimg.cc/NFvPfNC3/image.png)" />
 </p>
 
 ### Peekaboo is able to:
